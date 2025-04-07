@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwertyLEEJK)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Introduction
 안녕하세요. 영남대학교 컴퓨터공학과에 재학중인 이준규입니다.
 
