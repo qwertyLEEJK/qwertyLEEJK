@@ -1,4 +1,5 @@
-## Hi there 👋
+## Introduction
+안녕하세요. 영남대학교 컴퓨터공학과에 재학중인 이준규입니다.
 
 <!--
 **qwertyLEEJK/qwertyLEEJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
